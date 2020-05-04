@@ -1,0 +1,1 @@
+g++ main.cpp source/fuzzy.cpp source/neuralnet.cpp -o AI.exe -g
