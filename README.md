@@ -1,6 +1,6 @@
 # FuzzyLogicAndANNBasedAgentReasoning
 
-This is a simple AI reasoning implementation which can be the base a game AI. It is a simple implementation of Fuzzy Logic and Atrifical Neural Network combination to provide reasoning for a game AI agent. Fuzzy logic is developed using **Triangle** and **Trapezium Membership functions**. Defuzzification is achieved by using **Weighted Average**. Simplest ANN is created with neurons and layers. ** A* path finding ** algorithm has been implemented but not used. 
+This is a simple AI reasoning implementation which can be the base a game AI. It is a simple implementation of Fuzzy Logic and Atrifical Neural Network combination to provide reasoning for a game AI agent. Fuzzy logic is developed using **Triangle** and **Trapezium Membership functions**. Defuzzification is achieved by using **Weighted Average**. Simplest ANN is created with neurons and layers. **A* path finding** algorithm has been implemented but not used. 
 C++ is used for the implementation.
 
 # REFERENCES
@@ -11,5 +11,5 @@ C++ is used for the implementation.
 
 # LICENSE
 
-This project is not licensed - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under UNLICENSE- see the [LICENSE.md](LICENSE.md) file for details
 
